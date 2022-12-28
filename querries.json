@@ -1,0 +1,13 @@
+{
+    "tables":
+    [
+        {
+            "name":"TABLE_NAME",
+            "querry":"SELECT [Id],[Field1],[Field2] FROM [DATABASE].[dbo].[TABLE_NAME]"
+        },
+        {
+            "name":"TABLE_NAME",
+            "querry":"SELECT [Id],[Field1],[Field2] FROM [DATABASE].[dbo].[TABLE_NAME]"
+        }
+    ]
+}
